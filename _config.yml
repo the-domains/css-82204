@@ -37,7 +37,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -53,3 +52,7 @@ logo: >-
 url: 'https://css.abc-xyz.us/'
 title: css
 description: some say cheatin'.. but it can look good!
+purpose:
+  - type: external
+    url: 'https://abc-xyz.us'
+    label: abc.. to xyz
