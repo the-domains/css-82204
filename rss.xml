@@ -4,15 +4,22 @@
         <description><![CDATA[css]]></description>
         <link>http://css.abc-xyz.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Aug 2017 15:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2017 16:34:28 GMT</lastBuildDate>
         <atom:link href="http://css.abc-xyz.us/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 31 Aug 2017 15:13:31 GMT</pubDate>
+        <pubDate>Thu, 31 Aug 2017 16:34:27 GMT</pubDate>
         <item>
             <title><![CDATA[..ok I know..]]></title>
             <description><![CDATA[<h1>..ok I know..</h1>,<p>“We bought the grid so we wouldn’t have to do any ‘coding’… Molly is meant to design everything for me..!”</p>,<p>We’ve had this conversation many times, but sometimes.. just maybe.. it might be ok just to utilize a little bit of css on your grid site. In the examples below, all the code is shown, so really you only have to copy anyway.. 🙄</p>,<p>In the embedded html window tho, remember that we have to put all the css between &lt;style&gt;….. &lt;/style&gt; tags..</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVj01OxDAMhfdzCm9QAanpCMRm_q7AkrWbupOINI5iz5QKIXENrsdJyNCCYJPo2X7Pn3eiU6DDylifbSB4XQGMvlO3gbv1Or1si3bkj07_FPrAWHSgXi9SHCaq-aTiO9rAnHT9sL662a7eVrtmWbHr_BlsQJF9Nc9Uh-Le-eEIku2-cqpJNk0zjqNpW4-tsTw0wtZjGBrLfU90b1I8VgvSvvpGqmbiH1U2NWVV-doMzeH20YHwQBwJRhRAefbxCI5HGAmw62Ceo4HVW44CyqCOILGomLn5RJ_vH5mAIyAMaM1Sn19hKEbNHOpCPGDsakloqcVszBI_Osp0pgwTn8BiBJ0SQQ2-JMYJMKUiTnJBU4e6uJa4cmAI0OZL95QKQvCiwD38Qv8HuvbwHL8PrAq0dYR6sWLIhN1kjLn5AhMMpgw" height="240"></iframe>]]></description>
             <link>http://css.abc-xyz.us/ok-i-know/index.html</link>
             <guid isPermaLink="false">a42b252e-5a4b-4491-9e2d-e06b42147106</guid>
             <pubDate>Thu, 31 Aug 2017 14:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[parallax section]]></title>
+            <description><![CDATA[<h1>parallax section</h1>]]></description>
+            <link>http://css.abc-xyz.us/parallax-section/index.html</link>
+            <guid isPermaLink="false">132353b7-32ac-43e6-a3c8-ce51e2833715</guid>
+            <pubDate>Thu, 31 Aug 2017 16:34:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
