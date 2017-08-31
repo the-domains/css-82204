@@ -19,7 +19,32 @@ color:
     - '#FDFDF9'
     - '#F0ECE8'
     - '#FFFFFF'
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c50b960-8a8a-4780-a487-98e856c000a1.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c50b960-8a8a-4780-a487-98e856c000a1.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fe45d7e-b064-4f85-9a5f-fdbce05a61ca.png
