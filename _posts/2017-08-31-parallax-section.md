@@ -5,8 +5,8 @@ description: >-
   the size of the embedded html window on your grid site.. The effect does have
   some possibilities tho, especially if perhaps you were holding an event.. say
   like a concert..
-dateModified: '2017-08-31T16:43:25.427Z'
-datePublished: '2017-08-31T16:43:25.838Z'
+dateModified: '2017-08-31T16:43:30.192Z'
+datePublished: '2017-08-31T16:43:30.344Z'
 title: parallax section
 author: []
 publisher: {}
