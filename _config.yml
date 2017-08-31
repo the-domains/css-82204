@@ -1,0 +1,28 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: css
+layout_spectrum: 0.13207516120746732
+typography_spectrum: 0.40239594830200076
+color:
+  brandStrength: 0.11949842004105449
+  lightness: 0.5438415568787605
+  saturation: 0.4410414732992649
+  rhythmicContrast: 0.10153171326965094
+  brandColors:
+    - '#F4F2ED'
+    - '#FBF9F1'
+    - '#FDFDF9'
+    - '#F0ECE8'
+    - '#FFFFFF'
+content: []
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fe45d7e-b064-4f85-9a5f-fdbce05a61ca.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbe7efe0-03e1-42fc-878b-1e21fd540599.png
+url: 'https://css.abc-xyz.us/'
