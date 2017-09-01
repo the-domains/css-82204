@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   “There are three responses to a piece of design – yes, no, and WOW! Wow is the
   one to aim for.” ~ Milton Glaser
-dateModified: '2017-08-31T23:26:06.549Z'
-datePublished: '2017-08-31T23:26:06.690Z'
+dateModified: '2017-09-01T10:35:28.462Z'
+datePublished: '2017-09-01T10:35:28.583Z'
 title: ''
 author: []
 publisher: {}
